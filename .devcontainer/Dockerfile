@@ -1,0 +1,1 @@
+FROM salesforce/cli:latest-full

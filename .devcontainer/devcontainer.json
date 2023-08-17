@@ -1,0 +1,15 @@
+{
+    "name": "Salesforce Project",
+    "dockerFile": "Dockerfile",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "salesforce.salesforcedx-vscode-expanded",
+                "esbenp.prettier-vscode"
+            ],
+            "settings": {
+                "salesforcedx-vscode-apex.java.home": "/usr/lib/jvm/java-11-openjdk-amd64"
+            }
+        }
+    }
+}
